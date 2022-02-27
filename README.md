@@ -1,1 +1,1 @@
-# studiomaditpgraphy
+# studiomaditography
