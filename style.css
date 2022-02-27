@@ -219,6 +219,11 @@ h3{
     bottom: 49%;
     opacity: 1;
 }
+@media(max-width: 700px){
+    .categories p{
+        font-size: 16px;
+    }
+
 /*--------------facil--------------*/
 
 .facil{
